@@ -17,9 +17,9 @@ A full-stack URL shortener that allows users to shorten long URLs with a custom 
 
 ## 🖼️ Screenshots
 
-![frontend Page](./frontend_submission/public/Page_1.png)  
+![frontend Page](./frontend_test_submission/public/Page_1.png)  
 DASHBOARD PAGE
-![Backend](./frontend_submission/public/backend_1.png)
+![Backend](./frontend_test_submission/public/backend_1.png)
 
 ---
 
