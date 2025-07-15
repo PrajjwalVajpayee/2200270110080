@@ -20,15 +20,15 @@ A full-stack URL shortener that allows users to shorten long URLs with a custom 
 ### 🎨 Frontend (React + MUI)
 
 > URL Shortener Form Page  
-<img src="./page_1.png" width="700"/>
+<img src="./frontend_submission/public/Page_1.png" width="700"/>
 
 ---
 
 ### 🔧 Backend (Node.js + Express)
 
 > Shorten URL API (Postman example)  
-<img src="./backend_1.png" width="700"/>
-<img src="./backend_2.png" width="700"/>
+<img src="./frontend/public/backend_1.png" width="700"/>
+<img src="./frontend_submission/public/backend_2.png" width="700"/>
 
 ---
 
