@@ -17,18 +17,9 @@ A full-stack URL shortener that allows users to shorten long URLs with a custom 
 
 ## 🖼️ Screenshots
 
-### 🎨 Frontend (React + MUI)
-
-> URL Shortener Form Page  
-<img src="./frontend_submission/public/Page_1.png" width="700"/>
-
----
-
-### 🔧 Backend (Node.js + Express)
-
-> Shorten URL API (Postman example)  
-<img src="./frontend/public/backend_1.png" width="700"/>
-<img src="./frontend_submission/public/backend_2.png" width="700"/>
+![frontend Page](./frontend_submission/public/Page_1.png)  
+DASHBOARD PAGE
+![Backend](./frontend_submission/public/backend_1.png)
 
 ---
 
